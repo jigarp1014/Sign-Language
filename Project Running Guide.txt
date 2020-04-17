@@ -1,0 +1,8 @@
+1. Open 'Sign Recognition Final Front-end-model' on python environment
+
+	Required libraries:
+	a. opencv
+	b. numpy
+	c. skimage
+
+2. Run ROlinOpenCV.py
